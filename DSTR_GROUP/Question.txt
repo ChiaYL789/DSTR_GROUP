@@ -1,0 +1,108 @@
+Is a deque capable of inserting and deleting elements at both ends?,A: Yes, B: No, A
+Can a priority queue be implemented using a binary search tree?,A: Yes, B: No, A
+Is a skip list used for fast searching insertion and deletion operations?,A: Yes, B: No, A
+Does a max-heap maintain the maximum element at the root?,A: Yes, B: No, A
+Is the time complexity of inserting an element in an AVL tree O(log n)?,A: Yes, B: No, A
+Can a graph be directed or undirected?,A: Yes, B: No, A
+Does an adjacency matrix use O(V^2) space for a graph with V vertices?,A: Yes, B: No, A
+Is a Fibonacci heap used in network optimization algorithms?,A: Yes, B: No, A
+Can a circular linked list be singly or doubly linked?,A: Yes, B: No, A
+Is a binary search tree a special case of a binary tree?,A: Yes, B: No, A
+Does a linked list allow for efficient random access?,A: Yes, B: No, B
+Is a trie also known as a prefix tree?,A: Yes, B: No, A
+Can a doubly linked list be traversed in both directions?,A: Yes, B: No, A
+Does a depth-first search use a stack for its implementation?,A: Yes, B: No, A
+Is an AVL tree a type of balanced binary search tree?,A: Yes, B: No, A
+Can a hash table provide O(1) average time complexity for search operations?,A: Yes, B: No, A
+Is a splay tree self-adjusting to bring recently accessed elements closer to the root?,A: Yes, B: No, A
+Does Dijkstra's algorithm work on graphs with negative weights?,A: Yes, B: No, B
+Can a graph with no edges be considered a forest?,A: Yes, B: No, B
+Is a binary heap a complete binary tree?,A: Yes, B: No, A
+Can a Bloom filter determine the definite absence of an element?,A: Yes, B: No, A
+Is the degree of a vertex in a graph the number of edges connected to it?,A: Yes, B: No, A
+Does an adjacency list require less space than an adjacency matrix for sparse graphs?,A: Yes, B: No, A
+Is a ternary search tree (TST) used for storing strings?,A: Yes, B: No, A
+Does a binary search tree guarantee O(log n) search time without self-balancing?,A: Yes, B: No, B
+Can a graph be traversed using both BFS and DFS algorithms?,A: Yes, B: No, A
+Is a spanning tree connected and acyclic?,A: Yes, B: No, A
+Does a breadth-first search use a queue for its implementation?,A: Yes, B: No, A
+Is a circular queue implemented using an array or linked list?,A: Yes, B: No, A
+Can a self-balancing tree adjust itself after insertion and deletion operations?,A: Yes, B: No, A
+Is a B+ tree a balanced tree that maintains sorted data and allows for efficient insertion deletion and search operations?,T: True, F: False, T
+Can a stack be used to reverse a string?,T: True, F: False, T
+Is a directed acyclic graph (DAG) used in representing scheduling problems?,T: True, F: False, T
+Does a suffix array provide a space-efficient solution for string matching problems?,T: True, F: False, T
+Can a hash table handle collisions using open addressing?,T: True, F: False, T
+Is a min-heap a complete binary tree where each node is smaller than its children?,T: True, F: False, T
+Does Kruskal's algorithm use a greedy approach to find a minimum spanning tree?,T: True, F: False, T
+Can a multigraph have loops (edges connected to the same vertex)?,T: True, F: False, T
+Is a null graph a graph with no vertices and no edges?,T: True, F: False, F
+Can a binary search tree become unbalanced without rotations or balancing mechanisms?,T: True, F: False, T
+Is a heap used to implement a priority queue?,T: True, F: False, T
+Can a stack support both push and pop operations?,T: True, F: False, T
+Does a depth-first search traverse all vertices of a graph?,T: True, F: False, T
+Is a doubly linked list more space-efficient than a singly linked list?,T: True, F: False, F
+Can a graph have both directed and undirected edges?,T: True, F: False, F
+Is an adjacency list more space-efficient than an adjacency matrix for dense graphs?,T: True, F: False, F
+Does a B-tree minimize the number of disk accesses?,T: True, F: False, T
+Can a binary tree have zero one or two children per node?,T: True, F: False, T
+Is a sparse graph a graph with relatively few edges compared to the number of vertices?,T: True, F: False, T
+Does a hash table require a good hash function to minimize collisions?,T: True, F: False, T
+Is a path in a graph a sequence of edges?,T: True, F: False, T
+Can a balanced binary search tree have a height of O(log n)?,T: True, F: False, T
+Is a graph with all vertices connected to every other vertex called a complete graph?,T: True, F: False, T
+Does a heap support both insert and extract operations?,T: True, F: False, T
+Can a stack overflow occur if too many items are pushed?,T: True, F: False, T
+Is an adjacency matrix a 2D array used to represent a graph?,T: True, F: False, T
+Does a binary search tree allow duplicate elements?,T: True, F: False, F
+Is a hash set a data structure that only stores unique elements?,T: True, F: False, T
+Can a queue be implemented using a linked list?,T: True, F: False, T
+Is a binary tree used in Huffman coding?,T: True, F: False, T
+A binary search tree is always balanced, A: True, B: False, B
+In a linked list each node contains a pointer to the next node, A: True, B: False, A
+The time complexity of bubble sort in the worst case is O(n^2), A: True, B: False, A
+A stack follows the Last In First Out (LIFO) principle, A: True, B: False, A
+In a max heap the smallest element is always at the root, A: True, B: False, B
+A queue follows the First In First Out (FIFO) principle, A: True, B: False, A
+Depth-first search (DFS) and breadth-first search (BFS) can both be used to traverse a graph, A: True, B: False, A
+In a singly linked list nodes can be easily accessed in constant time, A: True, B: False, B
+A hash table is designed to provide fast retrieval of data, A: True, B: False, A
+Merge sort is a comparison-based sorting algorithm, A: True, B: False, A
+An AVL tree is a type of self-balancing binary search tree, A: True, B: False, A
+Prim's algorithm is used for finding the shortest path in a graph, A: True, B: False, B
+In a doubly linked list each node has pointers to both the next and previous nodes, A: True, B: False, A
+Quick sort is an in-place sorting algorithm, A: True, B: False, A
+Breadth-first search (BFS) can be used to find the shortest path in an unweighted graph, A: True, B: False, A
+A graph can only be represented using an adjacency matrix, A: True, B: False, B
+The worst-case time complexity of binary search is O(log n), A: True, B: False, A
+In a circular linked list the last node points back to the first node, A: True, B: False, A
+Dijkstra's algorithm can handle negative edge weights in a graph, A: True, B: False, B
+Insertion sort has a worst-case time complexity of O(n log n), A: True, B: False, B
+In a balanced binary tree the height of the two subtrees of any node differ by at most one, A: True, B: False, A
+A priority queue can be efficiently implemented using a heap, A: True, B: False, A
+Radix sort is a non-comparison-based sorting algorithm, A: True, B: False, A
+In a complete binary tree all levels are fully filled except possibly the last level which is filled from right to left, A: True, B: False, B
+Dynamic programming is an optimization technique that solves complex problems by breaking them down into simpler subproblems, A: True, B: False, A
+Depth-first search (DFS) uses a queue data structure to keep track of nodes to visit, A: True, B: False, B
+A spanning tree is a subgraph of a graph that is connected and has no cycles, A: True, B: False, A
+In a max heap the parent node is always greater than or equal to its children, A: True, B: False, A
+The height of a red-black tree is O(log n), A: True, B: False, A
+Bubble sort is an efficient sorting algorithm for large datasets, A: True, B: False, B
+A graph with n vertices can have at most n-1 edges, A: True, B: False, B
+An Eulerian path in a graph visits every edge exactly once, A: True, B: False, A
+Depth-first search (DFS) is guaranteed to find the shortest path in a graph, A: True, B: False, B
+A hash function is used in a hash table to compute the index of an element, A: True, B: False, A
+In a binary search tree each node has at most three children, A: True, B: False, B
+A binary tree can have more than two children per node, A: True, B: False, B
+The Floyd-Warshall algorithm is used to find the shortest paths between all pairs of vertices in a graph, A: True, B: False, A
+A graph with n vertices and m edges has an edge density of m/(n^2), A: True, B: False, B
+A priority queue allows elements with the same priority to be processed in any order, A: True, B: False, B
+The Bellman-Ford algorithm can handle graphs with negative weight edges, A: True, B: False, A
+A binary tree is a type of graph, A: True, B: False, A
+A graph with no cycles is called a cyclic graph, A: True, B: False, B
+The Kruskal's algorithm can be used to find the minimum spanning tree in a graph, A: True, B: False, A
+In a complete graph there is a unique path between any two vertices, A: True, B: False, B
+A topological sort can be applied to any directed graph, A: True, B: False, B
+The merge sort algorithm is an example of a divide and conquer algorithm, A: True, B: False, A
+A graph can have multiple edges between the same pair of vertices, A: True, B: False, A
+A queue is an example of a Last In First Out (LIFO) data structure, A: True, B: False, B
